@@ -23,10 +23,22 @@ Municipal waste collection is an important part of keeping cities clean, but ine
 
 PROJECT OBJECTIVES:
 1.To develop a system that optimizes waste collection routes based on the location of waste bins.
+
+
 2.To reduce unnecessary travel distance and collection time for waste vehicles.
+
+
 3.To improve the utilization of waste collection vehicles by considering their capacity.
+
+
 4.To identify suitable collection sequences based on waste levels and priority.
+
+
 5.To reduce fuel consumption and operational costs associated with waste collection.
+
+
 6.To provide a practical and easy-to-understand route recommendation system for municipal waste management.
+
+
 7.To evaluate the optimized routes by comparing them with conventional collection methods.
 
