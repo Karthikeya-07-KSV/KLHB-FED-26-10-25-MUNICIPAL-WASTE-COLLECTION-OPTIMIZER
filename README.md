@@ -11,9 +11,9 @@ TEAM MEMBERS:
 
 SUPERVISOR -DR K.RAJESH SIR
 
-SETUP INSTRUCTION - SOFTWARE:(JAVA)
+SETUP INSTRUCTION - SOFTWARE: (JAVA)
 
-CURRENT PHASE:(DEVELOPING).
+CURRENT PHASE: (DEVELOPING).
 
 
 ABSTRACT:
@@ -22,6 +22,8 @@ Municipal waste collection is an important part of keeping cities clean, but ine
 
 
 PROJECT OBJECTIVES:
+
+
 1.To develop a system that optimizes waste collection routes based on the location of waste bins.
 
 
