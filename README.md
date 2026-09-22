@@ -51,20 +51,18 @@ PROJECT OBJECTIVES:
 5.To reduce fuel consumption and operational costs associated with waste collection.
 
 
-
-
-
-
-
-
-EXECUTION STATEMENT :
-
-javac WasteCollectionOptimizer.java
-
-
-
 6.To provide a practical and easy-to-understand route recommendation system for municipal waste management.
 
 
 7.To evaluate the optimized routes by comparing them with conventional collection methods.
+
+
+
+
+
+
+CODE EXECUTION STATEMENTS:
+
+javac WasteCollectionOptimizer.java
+
 
